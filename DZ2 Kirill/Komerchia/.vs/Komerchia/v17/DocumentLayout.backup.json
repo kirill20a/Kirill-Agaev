@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\raboch\\Microsoft_\\Komerchia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{836034A8-0F4F-4A8E-B523-8338E7A367E4}|Komerchia\\Komerchia.vcxproj|F:\\raboch\\Microsoft_\\Komerchia\\Komerchia\\Komerchia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{836034A8-0F4F-4A8E-B523-8338E7A367E4}|Komerchia\\Komerchia.vcxproj|solutionrelative:Komerchia\\Komerchia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\HZ\\ZH\\3 para\\Stile\\stile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\HZ\\ZH\\3 para\\Zadan_1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\HZ\\ZH\\3 para\\Page\\Page2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Page2.html",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\HZ\\ZH\\3 para\\Page\\Page2.html",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\HZ\\ZH\\3 para\\Page\\Page2.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-18T09:53:36.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stile.css",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\HZ\\ZH\\3 para\\Stile\\stile.css",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\HZ\\ZH\\3 para\\Stile\\stile.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-18T09:47:25.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Zadan_1.html",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\HZ\\ZH\\3 para\\Zadan_1.html",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\HZ\\ZH\\3 para\\Zadan_1.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-18T09:45:53.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Komerchia.cpp",
+              "DocumentMoniker": "F:\\raboch\\Microsoft_\\Komerchia\\Komerchia\\Komerchia.cpp",
+              "RelativeDocumentMoniker": "Komerchia\\Komerchia.cpp",
+              "ToolTip": "F:\\raboch\\Microsoft_\\Komerchia\\Komerchia\\Komerchia.cpp*",
+              "RelativeToolTip": "Komerchia\\Komerchia.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-18T09:28:14.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
