@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Rabota\\Microsoft_\\\u0421\u0417\u0417\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48D964D5-C920-4DC0-B927-376293B5F222}|\u0421\u0417\u0417\\\u0421\u0417\u0417.vcxproj|C:\\Rabota\\Microsoft_\\\u0421\u0417\u0417\\\u0421\u0417\u0417\\\u0421\u0417\u0417.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48D964D5-C920-4DC0-B927-376293B5F222}|\u0421\u0417\u0417\\\u0421\u0417\u0417.vcxproj|solutionrelative:\u0421\u0417\u0417\\\u0421\u0417\u0417.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0421\u0417\u0417.cpp",
+              "DocumentMoniker": "C:\\Rabota\\Microsoft_\\\u0421\u0417\u0417\\\u0421\u0417\u0417\\\u0421\u0417\u0417.cpp",
+              "RelativeDocumentMoniker": "\u0421\u0417\u0417\\\u0421\u0417\u0417.cpp",
+              "ToolTip": "C:\\Rabota\\Microsoft_\\\u0421\u0417\u0417\\\u0421\u0417\u0417\\\u0421\u0417\u0417.cpp",
+              "RelativeToolTip": "\u0421\u0417\u0417\\\u0421\u0417\u0417.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-27T10:21:19.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

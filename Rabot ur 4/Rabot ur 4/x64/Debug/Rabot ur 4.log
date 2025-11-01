@@ -1,0 +1,3 @@
+﻿  Rabot ur 4.cpp
+C:\Rabota\Microsoft_\Rabot ur 4\Rabot ur 4\Rabot ur 4.cpp(25,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Rabot ur 4.vcxproj -> C:\Rabota\Microsoft_\Rabot ur 4\x64\Debug\Rabot ur 4.exe

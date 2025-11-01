@@ -1,0 +1,2 @@
+﻿  Ukazat_5.cpp
+C:\Rabota\Microsoft_\Ukazat_5\Ukazat_5\Ukazat_5.cpp(53,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
