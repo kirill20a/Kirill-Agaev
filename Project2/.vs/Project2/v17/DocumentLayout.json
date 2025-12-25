@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Rabota\\Microsoft_\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8571DA32-3530-48B0-8603-1FA0FBC41BC2}|Project2\\Project2.vcxproj|C:\\Rabota\\Microsoft_\\Project2\\Project2\\Module.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8571DA32-3530-48B0-8603-1FA0FBC41BC2}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Module.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module.ixx",
+              "DocumentMoniker": "C:\\Rabota\\Microsoft_\\Project2\\Project2\\Module.ixx",
+              "RelativeDocumentMoniker": "Project2\\Module.ixx",
+              "ToolTip": "C:\\Rabota\\Microsoft_\\Project2\\Project2\\Module.ixx",
+              "RelativeToolTip": "Project2\\Module.ixx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
+              "WhenOpened": "2025-11-01T10:39:36.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

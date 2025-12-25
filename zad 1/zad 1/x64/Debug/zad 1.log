@@ -1,0 +1,4 @@
+﻿  zad 1.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.44.35207\include\numbers(11): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+F:\raboch\Microsoft_\zad 1\zad 1\zad 1.cpp(9,27): error C2653: numbers: не является именем класса или пространства имен
+F:\raboch\Microsoft_\zad 1\zad 1\zad 1.cpp(9,36): error C2065: pi: необъявленный идентификатор

@@ -1,0 +1,3 @@
+﻿  monet.cpp
+C:\Rabota\Microsoft_\monet\monet\monet.cpp(223,26): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  monet.vcxproj -> C:\Rabota\Microsoft_\monet\x64\Debug\monet.exe

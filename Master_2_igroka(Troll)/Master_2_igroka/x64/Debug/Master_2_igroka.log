@@ -1,0 +1,3 @@
+﻿  Master_2_igroka.cpp
+C:\Rabota\Microsoft_\Master_2_igroka\Master_2_igroka\Master_2_igroka.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Master_2_igroka.vcxproj -> C:\Rabota\Microsoft_\Master_2_igroka\x64\Debug\Master_2_igroka.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Rabota\\Microsoft_\\Gigit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1ECD75-2165-41DB-AA4B-3E5AB03A35DF}|Gigit\\Gigit.vcxproj|C:\\Rabota\\Microsoft_\\Gigit\\Gigit\\Gigit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B1ECD75-2165-41DB-AA4B-3E5AB03A35DF}|Gigit\\Gigit.vcxproj|solutionrelative:Gigit\\Gigit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gigit.cpp",
+              "DocumentMoniker": "C:\\Rabota\\Microsoft_\\Gigit\\Gigit\\Gigit.cpp",
+              "RelativeDocumentMoniker": "Gigit\\Gigit.cpp",
+              "ToolTip": "C:\\Rabota\\Microsoft_\\Gigit\\Gigit\\Gigit.cpp*",
+              "RelativeToolTip": "Gigit\\Gigit.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-09T05:53:58.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

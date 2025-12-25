@@ -1,0 +1,9 @@
+To visualize the results:
+1. Install GNUplot from http://www.gnuplot.info/
+2. Open terminal/command prompt
+3. Run: gnuplot plot_triangle.gnu
+
+Files created:
+- all_points.dat     - all points
+- min_triangle.dat   - triangle vertices
+- plot_triangle.gnu  - GNUplot script

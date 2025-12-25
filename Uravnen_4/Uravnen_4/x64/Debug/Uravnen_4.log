@@ -1,0 +1,5 @@
+﻿  Uravnen_4.cpp
+F:\raboch\Microsoft_\Uravnen_4\Uravnen_4\Uravnen_4.cpp(11,13): warning C4566: символ, представленный универсальным именем символа "\u00B2", невозможно представить в текущей кодовой странице (1251)
+F:\raboch\Microsoft_\Uravnen_4\Uravnen_4\Uravnen_4.cpp(25,13): warning C4566: символ, представленный универсальным именем символа "\u2080", невозможно представить в текущей кодовой странице (1251)
+F:\raboch\Microsoft_\Uravnen_4\Uravnen_4\Uravnen_4.cpp(26,13): warning C4566: символ, представленный универсальным именем символа "\u2080", невозможно представить в текущей кодовой странице (1251)
+  Uravnen_4.vcxproj -> F:\raboch\Microsoft_\Uravnen_4\x64\Debug\Uravnen_4.exe

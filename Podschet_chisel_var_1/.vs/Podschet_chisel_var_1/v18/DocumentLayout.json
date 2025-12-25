@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Rabota\\Microsoft_\\Podschet_chisel_var_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74935174-1034-4AF2-B752-E870FAF9E4CA}|Podschet_chisel_var_1\\Podschet_chisel_var_1.vcxproj|C:\\Rabota\\Microsoft_\\Podschet_chisel_var_1\\Podschet_chisel_var_1\\Podschet_chisel_var_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74935174-1034-4AF2-B752-E870FAF9E4CA}|Podschet_chisel_var_1\\Podschet_chisel_var_1.vcxproj|solutionrelative:Podschet_chisel_var_1\\Podschet_chisel_var_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Podschet_chisel_var_1.cpp",
+              "DocumentMoniker": "C:\\Rabota\\Microsoft_\\Podschet_chisel_var_1\\Podschet_chisel_var_1\\Podschet_chisel_var_1.cpp",
+              "RelativeDocumentMoniker": "Podschet_chisel_var_1\\Podschet_chisel_var_1.cpp",
+              "ToolTip": "C:\\Rabota\\Microsoft_\\Podschet_chisel_var_1\\Podschet_chisel_var_1\\Podschet_chisel_var_1.cpp",
+              "RelativeToolTip": "Podschet_chisel_var_1\\Podschet_chisel_var_1.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-03T08:28:37.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  20 БАЛОВ.cpp
+C:\Rabota\Microsoft_\20 БАЛОВ\20 БАЛОВ\20 БАЛОВ.cpp(152,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  20 БАЛОВ.vcxproj -> C:\Rabota\Microsoft_\20 БАЛОВ\x64\Debug\20 БАЛОВ.exe

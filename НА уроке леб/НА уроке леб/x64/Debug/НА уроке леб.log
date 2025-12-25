@@ -1,0 +1,3 @@
+﻿  НА уроке леб.cpp
+C:\Rabota\Microsoft_\НА уроке леб\НА уроке леб\НА уроке леб.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  НА уроке леб.vcxproj -> C:\Rabota\Microsoft_\НА уроке леб\x64\Debug\НА уроке леб.exe
